@@ -1,0 +1,3 @@
+== Build
+
+In console invoke: `./mvn install`
